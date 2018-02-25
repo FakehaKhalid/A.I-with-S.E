@@ -1,0 +1,7 @@
+Scope Of Project:
+The COMPUTER VISUAL INTELLIGENCE (CVI) software returns set of five images
+from a large database, in response to a user image query or user's text
+query through the technique of convolutional neural network. a training
+data set of 50 images is stored in the CVI to train convolutional neural
+network for classifying these 50 images into 10 categories. each category
+will be stored as separate dataset in the s/w.
